@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+I'm **Gray**. I’m a UX designer, writer, and copyeditor with a learning mindset and a background in training design and troubleshooting. I also make mead and hot sauce.
+{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #4FE6F1 0%, #3E8FEB 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-Check out my [resumé](/about/) and portfolio below 😍
+Check out my [resumé](/about/) and portfolio below!
