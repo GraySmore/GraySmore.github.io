@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Gray
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,28 +14,25 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
+#- name: 
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I’m a UX designer, writer, and copyeditor. I create user-friendly websites for creatives and small businesses to help them reach their audience. I also make mead and hot sauce.
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- Human-centered design
+#- Grammar and etymology
+#- Fermentation
 
 #education:
 #  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+#  - course: Product Design
+#    institution: CareerFoundry
+#    year: 2025
+#  - course: English, BA
+#    institution: George Mason University
+#    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -66,8 +63,6 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I’m a UX designer, writer, and copyeditor. I create user-friendly websites for creatives and small businesses to help them reach their audience. I also make mead and hot sauce.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
