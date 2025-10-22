@@ -18,7 +18,8 @@ author: admin
 #  css_class: fullscreen
 ---
 
-I'm **Gray**. I’m a UX designer, writer, and copyeditor with a learning mindset and a background in training design and troubleshooting. I also make mead and hot sauce.
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #4FE6F1 0%, #3E8FEB 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+I'm **Gray**.
+I’m a UX designer, writer, and copyeditor with a learning mindset and a background in training design and troubleshooting. I also make mead and hot sauce.
+{style="font-size: 1.2rem; text-align: left; background: #FFB76B; background: linear-gradient(to right, #4FE6F1 0%, #3E8FEB 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-Check out my [resumé](/about/) and portfolio below!
+# Check out my [resumé](/about/) and portfolio below!
